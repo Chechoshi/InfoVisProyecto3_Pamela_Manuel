@@ -1,9 +1,9 @@
-# InforVisProyecto2_Pamela_Manuel
+# InforVisProyecto3_Pamela_Manuel
 Proyecto Programado 1 de Visualización de Información
 
 ######Técnica
 
-**Este proyecto es sobre el esquema jerárquico, los esquemas jerárquicos son estructuras similares a las de un árbol, usando relaciones de padre-hijo, se clasifican los componentes de mayor a menor o viceversa, en este se pueden acomodar los datos en tema principal, subtemas y detalles.**
+**Este proyecto es sobre una mejoria al esquema jerárquico, los esquemas jerárquicos son estructuras similares a las de un árbol, usando relaciones de padre-hijo, se clasifican los componentes de mayor a menor o viceversa, en este se pueden acomodar los datos en tema principal, subtemas y detalles, para la mejoria se le agregará el zoom y detalles a los nodos.**
 
 ######Antecedentes
 **Las estructuras jerárquicas fueron usadas en sistemas de gestión de datos, usadas para recetas índices ordenamientos, anidaciones y clasificaciones, esto debido a que son estructuras bastante eficientes para describir relaciones de los datos.**
