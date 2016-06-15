@@ -21,4 +21,4 @@ Proyecto Programado 3 de Visualización de Información
 [educar.ec](http://www.educar.ec/edu/dipromepg/evaluacion/9.3.htm) 
 
 ######Prueba
-[bl.ocks.org](http://bl.ocks.org/Chechoshi/1fae3a2f0c0935b4d6bdb6af826974cd)
+[bl.ocks.org](http://bl.ocks.org/Chechoshi/046c7299fcec087976c66e8a208c5423)
