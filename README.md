@@ -1,5 +1,5 @@
 # InforVisProyecto3_Pamela_Manuel
-Proyecto Programado 1 de Visualización de Información
+Proyecto Programado 3 de Visualización de Información
 
 ######Técnica
 
